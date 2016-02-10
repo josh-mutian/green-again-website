@@ -1,0 +1,40 @@
+#nav-bar {
+    width: 90%;
+    height: 5%;
+    padding: 1.5em 5% 1em 5%;
+    background-color: #FFFFFF;
+    /*background-color: #666666;*/
+    display: block;
+}
+
+#nav-bar > img {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 3em;
+    display: inline-block;
+    float: left;
+}
+
+#nav-bar > * {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+#nav-container {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    display: inline-block;
+    float: right;
+    vertical-align: middle;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-item {
+    padding: 0;
+    display: inline-block;
+    margin: 0 0 0 1.5em;
+    font-size: 120%;
+    color: #000000;
+}

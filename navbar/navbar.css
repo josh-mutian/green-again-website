@@ -1,17 +1,13 @@
 #nav-bar {
     width: 90%;
-    height: 5%;
-    padding: 1.5em 5% 1em 5%;
+    height: 3em;
+    padding: .75em 5% .75em 5%;
     background-color: #FFFFFF;
-    /*background-color: #666666;*/
     display: block;
 }
 
 #nav-bar > img {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
-    height: 3em;
+    height: 100%;
     display: inline-block;
     float: left;
 }
@@ -21,20 +17,19 @@
 }
 
 #nav-container {
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
     display: inline-block;
     float: right;
     vertical-align: middle;
     margin: 0;
     padding: 0;
+    height: 100%
 }
 
 .nav-item {
     padding: 0;
     display: inline-block;
-    margin: .5em 0 .5em 1.5em;
-    font-size: 120%;
+    padding: .5em 0 .5em 1.5em;
+    font-size: 1.2em;
     color: #000000;
 }
+

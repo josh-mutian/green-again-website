@@ -14,14 +14,13 @@ body {
 .button {
     padding: 0;
     display: inline-block;
-    /*line-height: 1.5em;*/
     padding: .5em;
     margin: 0 0 0 1.5em;
     font-size: 120%;
     font-family: 'Roboto Condensed', sans-serif;
     color: #FFFFFF;
     background-color: #FF9800;
-    vertical-align: middle;
+    vertical-align: top;
 }
 
 #top {
@@ -36,7 +35,7 @@ body {
 
 #top > p {
     font-size: 300%;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     color: #FFFFFF;
     text-align: center;
     position: relative;
@@ -60,4 +59,47 @@ body {
     padding: .2em .5em .44em .5em;
     font-size: 120%;
     font-family: 'Open Sans', sans-serif;
+}
+
+.section-container {
+    width: 70%;
+    padding: 5% 15% 10% 15%;
+    text-align: center;
+}
+
+#mission-statement {
+    background-color: #EAEAC5;
+}
+
+.section-title {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #000000;
+    text-align: center;
+    font-size: 200%;
+    padding: 0em 0 5% 0;
+}
+
+.section-slogan {
+    font-size: 120%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.stat-tryptic {
+    text-align: top;
+    width: 30%;
+    padding: 0 1% 0 1%;
+    display: inline-block;
+}
+
+.stat-number {
+    font-size: 400%;
+    font-family: 'Open Sans', sans-serif;
+    color: #5E8F3A;
+    font-weight: 600;
+}
+
+.stat-desc {
+    font-size: 100%;
+    font-family: 'Open Sans', sans-serif;
+    color: #000000;
 }

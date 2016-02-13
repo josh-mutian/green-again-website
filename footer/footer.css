@@ -3,6 +3,7 @@
     width: 90%;
     padding: 1.5em 5% 1.5em 5%;
     background-color: #26361B;
+    text-align: center;
 }
 
 .footer_bar > p {
@@ -26,8 +27,8 @@
     display: inline-block;
     text-align: left;
     vertical-align: top;
-    width: 32%;
-    padding-right: 1%
+    width: 30%;
+    padding: 0% 1% 0% 1%;
 }
 
 .footer_section p {

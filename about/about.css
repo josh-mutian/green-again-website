@@ -1,8 +1,22 @@
-.circle-button {
+.man-button {
     border-radius: 50%;
     height: 7em;
     width: 7em;
     padding: 2.5em;
+    margin: 0 1.5em 0 1em;
+    background: #5E8F3A;
+    display: inline-block;
+}
+
+.man-button > img {
+    height: 100%;
+}
+
+.circle-button {
+    border-radius: 50%;
+    height: 4em;
+    width: 4em;
+    padding: 1.5em;
     margin: 0 1.5em 0 1em;
     background: #00B0FF;
     display: inline-block;
@@ -10,4 +24,12 @@
 
 .circle-button > img {
     height: 100%;
+}
+
+.input-email {
+    width: 30%;
+    margin-right: -.2em;
+    padding: .2em .5em .43em .5em;
+    font-size: 120%;
+    font-family: 'Open Sans', sans-serif;
 }

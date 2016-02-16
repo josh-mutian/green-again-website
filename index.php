@@ -23,8 +23,8 @@
 
         <p>
             <span class='headline-size'>Green Again: Madagascar</span>
-            <br><br>
-            <span class='title-size'>Restoring Forest Habitats.</span>
+            <br><br><br><br>
+            <span class='title-size'>Restoring Forest Habitats</span>
         </p>
         <div id='top-join-us'>
             <form>
@@ -59,15 +59,15 @@
         <div class='section-title title-size'>Our Impact</div>
         <div class='pad-below-3em'>
             <div class='stat-triptych triptych'>
-                <p class='stat-number'><span class='counter'>3103</span></p>
+                <p class='stat-number'><span class='counter'>3,103</span></p>
                 <p class='stat-desc'>seedlings 1 year old</p>
             </div>
             <div class='stat-triptych triptych'>
-                <p class='stat-number'><span class='counter'>1000</span>+</p>
+                <p class='stat-number'><span class='counter'>1,000</span>+</p>
                 <p class='stat-desc'>germinations ready for pot</p>
             </div>
             <div class='stat-triptych triptych'>
-                <p class='stat-number'><span class='counter'>1000</span>+</p>
+                <p class='stat-number'><span class='counter'>4,000</span>+</p>
                 <p class='stat-desc'>1 year old in "wild nursery" on burned land ready for planting</p>
             </div>
         </div>

@@ -14,14 +14,12 @@
 </head>
 
 <body>
+    <?php
+        $navbar = $_SERVER['DOCUMENT_ROOT']."/navbar/navbar.php";
+        include_once($navbar);
+    ?>
     <div id='top' class='height-half' style='background-image: url(/img_src/about_cover.jpg)'>
-
-        <?php
-            $navbar = $_SERVER['DOCUMENT_ROOT']."/navbar/navbar.php";
-            include_once($navbar);
-        ?>
-
-        <p>
+        <p style='top: 60%'>
             <span class='headline-size'>About Us</span>
             <br><br>
             <span class='title-size'>Why we started, and who we are.</span>

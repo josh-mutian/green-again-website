@@ -22,7 +22,7 @@ body {
     color: #FFFFFF;
     text-align: center;
     position: relative;
-    top: 40%;
+    top: 50%;
     transform: translateY(-50%);
 }
 
@@ -71,11 +71,11 @@ body {
 }
 
 .headline-size {
-    font-size: 3em;
+    font-size: 4em;
 }
 
 .title-size {
-    font-size: 2em;
+    font-size: 2.5em;
 }
 
 .subtitle-size {

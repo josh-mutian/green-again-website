@@ -27,9 +27,23 @@
     </div>
 
     <div class='section-container first-sec'>
-        <p class='accent-size' style='color: #5E8F3A'>Green Again uses a three-ring bullseye approach.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum erat et urna aliquam, ac placerat turpis tincidunt. Nunc risus ipsum, ullamcorper ut nunc venenatis, sodales elementum enim. Sed volutpat convallis mauris, eu lacinia sapien mollis vitae. Curabitur tempor ultrices lectus, eget tincidunt erat imperdiet quis. Curabitur at tempus quam, vitae semper odio. Praesent vulputate hendrerit porta. Proin ac facilisis metus, porta egestas sem.</p>
-        <p>Maecenas nibh turpis, molestie non enim vel, iaculis vehicula quam. Aliquam dapibus hendrerit placerat. Vivamus commodo fringilla euismod. Fusce id lacus ac dolor finibus elementum. Etiam scelerisque faucibus maximus. Ut non faucibus nibh. Phasellus a vulputate quam, in consectetur turpis. Ut lacinia viverra imperdiet. Proin iaculis elit est, eget vestibulum justo rhoncus et. Nullam imperdiet, diam condimentum convallis venenatis, eros nibh blandit nibh, sit amet blandit sapien dolor sit amet sapien. Donec eleifend elit et nisl maximus venenatis. Pellentesque consectetur feugiat erat. Suspendisse pharetra odio ornare odio dapibus, eu bibendum magna viverra. Vestibulum congue mattis malesuada.</p>
+        <p class='accent-size' style='color: #5E8F3A'>Ecological Restoration</p>
+        <p>The purpose of all Green Again’s projects and work is the “ecological restoration” of rainforest ecosystems in Madagascar -- not simply replanting or regrowing these forests. “Ecological restoration is the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed.” -- definition from the “Society for Ecological Restoration”</p>        
+        <p>Ecological restoration is a long term commitment to the land. The goal is not just to replant areas of the forest, but to create a self sustaining environment and restore the original specifies of floral and fauna. To read about the nine attributes listed below provide a basis for determining when restoration has been accomplished, visit <a href="http://www.ser.org/resources/resources-detail-view/ser-international-primer-on-ecological-restoration">SER</a>.</p>
+        <p class='accent-size' style='color: #5E8F3A'>Current Project</p>
+        <p>Parc Ivoloina is small but highly visited. It is 700 acres wide with 15,000 visitors annually (70% of which are malagasy).</p>
+        <p>Data: We enter our data on-site so that we can immediately capture the scientific data in our restoration process. We have feedback loops to change M.O. on demand and provide real-time transparency for our stakeholders.</p>
+        <p>We tested 5 different planting frameworks, 4 germination experiments, and several planting treatments. We planted 38 pioneer species and the trees are growing fast. There is a slight canopy already forming and several exotic species such as the eucalyptus, acacia, and guava are thriving.</p>
+        <p class='accent-size' style='color: #5E8F3A'> A Focus on Sustainability</p>
+        <p>A central challenge of our work is to ensure that restored rainforest areas remain protected for the long term.  Green Again uses a three-ring approach for this:</p>
+        <p>1. Restore a centrally located rainforest reserve which can be insulated and protected by surrounding plots</p>
+        <p>2. Replant surrounding forest plots as a buffer to be sustainably logged by families in the organization as their primary source of income</p>
+        <p>3. Establish another buffering zone exterior to that for gardening and rice fields</p>
+    </div>
+    
+    <div class='section-container last-sec'>
+        <div class='section-title title-size'>Highlights</div>
+        <p>3 x 3 grid of static images goes here</p>
     </div>
 
     <?php

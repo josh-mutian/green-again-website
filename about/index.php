@@ -38,31 +38,12 @@
             <a href='#'><div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
             </div></a>
+
             <a href='#'><div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
             </div></a>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-        </div>
-        <div class='pad-below-3em'>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-        </div>
-        <div>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
+
+
             <a href='#'><div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
             </div></a>

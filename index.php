@@ -37,16 +37,16 @@
     <div class='section-container first-sec'>
         <div class='section-title title-size'>Why Madagascar</div>
         <div class='stat-triptych triptych'>
-            <p class='stat-number'><span class='counter'>12,000</span>+</p>
-            <p class='stat-desc'>of Madagascar's plant species are found nowhere else in the world</p>
+            <p class='stat-number'><span class='counter'>3</span>%</p>
+            <p class='stat-desc'>of the entire world’s entire biodiversity is only found in Madagascar</p>
         </div>
         <div class='stat-triptych triptych'>
-            <p class='stat-number'>~<span class='counter'>90</span>%</p>
-            <p class='stat-desc'>of all plant and animal species found in Madagascar are endemic</p>
+            <p class='stat-number'><span class='counter'>50</span>%</p>
+            <p class='stat-desc'>of the rainforest was decimated in the 15 years between 1950 and 1985</p>
         </div>
         <div class='stat-triptych triptych'>
-            <p class='stat-number'><span class='counter'>90</span>%</p>
-            <p class='stat-desc'>of Madagascar's original forest lost in past 2,350 years</p>
+            <p class='stat-number'><span class='counter'>22</span>%</p>
+            <p class='stat-desc'>of the entire Madagascar rainforest left in 2010</p>
         </div>
     </div>
 
@@ -60,25 +60,30 @@
         <div class='pad-below-3em'>
             <div class='stat-triptych triptych'>
                 <p class='stat-number'><span class='counter'>3,103</span></p>
-                <p class='stat-desc'>seedlings 1 year old</p>
+                <p class='stat-desc'>1 year old seedlings</p>
             </div>
             <div class='stat-triptych triptych'>
-                <p class='stat-number'><span class='counter'>1,000</span>+</p>
+                <p class='stat-number'><span class='counter'>1,000</span></p>
                 <p class='stat-desc'>germinations ready for pot</p>
             </div>
             <div class='stat-triptych triptych'>
-                <p class='stat-number'><span class='counter'>4,000</span>+</p>
-                <p class='stat-desc'>1 year old in "wild nursery" on burned land ready for planting</p>
+                <p class='stat-number'><span class='counter'>4,000</span></p>
+                <p class='stat-desc'>1 year old trees in the "wild nursery," ready for planting</p>
             </div>
         </div>
         <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJQDUHJ9MWVRS&lc=US&item_name=Green%20Again%20Madagascar&item_number=Ivoloina%20Park%20Project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted'><div class='button vertical-center'>DONATE</div></a>
+    </div>
+
+    <div class='green-back section-container' id='learn-more'>
+        <div class='section-title title-size'>Learn More</div>
+        <div class='accent-size align-left'>Images will go here</div>
     </div>
 
     <div class='section-container last-sec'>
         <div class='section-title title-size'>How You Can Get Involved</div>
         <div class='pad-below-3em'>
             <p class='section-title subtitle-size'>Spread the word</p>
-            <a href='#'><div class='circle-button triptych'>
+            <a href='https://www.facebook.com/GreenAgainMadagascar'><div class='circle-button triptych'>
                 <img src='/icon_src/fb_logo.png'/>
             </div></a>
             <a href='#'><div class='circle-button triptych'>

@@ -76,7 +76,18 @@
 
     <div class='green-back section-container' id='learn-more'>
         <div class='section-title title-size'>Learn More</div>
-        <div class='accent-size align-left'>Images will go here</div>
+        <a href='/work'><div class='home-link triptyc'>
+            <img src='/img_src/learn_more_project.jpg'/>
+            <p>Our Work</p>
+        </div></a>
+        <div class='home-link triptyc'>
+            <img src='/img_src/learn_more_data.jpg'/>
+            <p>Data (coming soon)</p>
+        </div>
+        <a href='/about'><div class='home-link triptyc'>
+            <img src='/img_src/learn_more_about.jpg'/>
+            <p>About</p>
+        </div></a>
     </div>
 
     <div class='section-container last-sec'>
@@ -88,9 +99,6 @@
             </div></a>
             <a href='#'><div class='circle-button triptych'>
                 <img src='/icon_src/twitter_logo.png'/>
-            </div></a>
-            <a href='#'><div class='circle-button triptych'>
-                <img src='/icon_src/instg_logo.png'/>
             </div></a>
         </div>
         <div>

@@ -24,7 +24,7 @@
     background-color: #DCECCC;
 }
 
-.stat-triptych {
+.triptych {
     width: 30%;
     padding: 0 1% 0 1%;
     display: inline-block;
@@ -56,4 +56,34 @@
 
 .circle-button > img {
     height: 100%;
+}
+
+.learn-more {
+    width: 30%;
+    padding: 0 1% 0 1%;
+    display: inline-block;
+    vertical-align:top;
+}
+
+.home-link {
+    width: 30%;
+    padding: 0 1% 0 1%;
+    display: inline-block;
+    vertical-align:top;
+}
+
+.home-link > img {
+    width: 100%;
+}
+
+.home-link > p {
+    position: relative;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #FFFFFF;
+    font-size: 1.5em;
+    float: right;
+    bottom: 75px;
+    right: 0;
+    padding: 3% 10% 3% 5%;
+    background-color: #26361B;
 }

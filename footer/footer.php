@@ -4,9 +4,6 @@
         <p class='footer_title'>FOLLOW US</p>
         <a href='https://www.facebook.com/GreenAgainMadagascar'><img src='/icon_src/fb_logo.png'/></a>
         <a href='#'><img src='/icon_src/twitter_logo.png'/></a>
-        <a href='#'><img src='/icon_src/instg_logo.png'/></a>
-        <a href='#'><img src='/icon_src/youtube_logo.png'/></a>
-        <a href='#'><img src='/icon_src/github_logo.png'/></a>
     </div>
     <div class='footer_section triptych' id='legal'>
         <p class='footer_title'>LEARN MORE</p>

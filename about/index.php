@@ -35,18 +35,17 @@
     <div class='section-container'>
         <div class='section-title title-size'>Who We Are</div>
         <div class='pad-below-3em'>
-            <a href='#'><div class='man-button triptych'>
+            <div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
-            </div></a>
+            </div>
 
-            <a href='#'><div class='man-button triptych'>
+            <div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
-            </div></a>
+            </div>
 
-
-            <a href='#'><div class='man-button triptych'>
+            <div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
-            </div></a>
+            </div>
         </div>
     </div>
 

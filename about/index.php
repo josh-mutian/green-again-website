@@ -27,9 +27,9 @@
     </div>
 
     <div class='section-container first-sec'>
-        <p class='accent-size' style='color: #5E8F3A'>In November 2013, a man's charcoal fire burned out of control, starting a massive forest fire on the Eastern coast of Madagascar. The fire ravaged the man's land as well as over 20 acres of nearby rain forest of Parc Ivoloina.</p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin condimentum erat et urna aliquam, ac placerat turpis tincidunt. Nunc risus ipsum, ullamcorper ut nunc venenatis, sodales elementum enim. Sed volutpat convallis mauris, eu lacinia sapien mollis vitae. Curabitur tempor ultrices lectus, eget tincidunt erat imperdiet quis. Curabitur at tempus quam, vitae semper odio. Praesent vulputate hendrerit porta. Proin ac facilisis metus, porta egestas sem.</p>
-        <p>Maecenas nibh turpis, molestie non enim vel, iaculis vehicula quam. Aliquam dapibus hendrerit placerat. Vivamus commodo fringilla euismod. Fusce id lacus ac dolor finibus elementum. Etiam scelerisque faucibus maximus. Ut non faucibus nibh. Phasellus a vulputate quam, in consectetur turpis. Ut lacinia viverra imperdiet. Proin iaculis elit est, eget vestibulum justo rhoncus et. Nullam imperdiet, diam condimentum convallis venenatis, eros nibh blandit nibh, sit amet blandit sapien dolor sit amet sapien. Donec eleifend elit et nisl maximus venenatis. Pellentesque consectetur feugiat erat. Suspendisse pharetra odio ornare odio dapibus, eu bibendum magna viverra. Vestibulum congue mattis malesuada.</p>
+        <p class='accent-size' style='color: #5E8F3A'>In November 2013, a man's charcoal fire burned out of control, starting a massive forest fire on the Eastern coast of Madagascar. The fire ravaged the man's land as well as over 20 acres of nearby rain forest of Parc Ivoloina, one of the most widely visited forest reserves in Africa.</p>
+        <p>Green Again formed in response to this tragedy.  With support from park management and academic advisers at the University of Tamatave, Green Again is working to restore the burned areas in Parc Ivoloina by 2019.</p>
+        <p>Green Again is committed to a sustainable approach to ecological restoration that develops ongoing support and involvement among local residents.  Our goal is to include the Malagasy people in the restoration work in a way that allows them to improve their standard of living while restoring barren land back into primary forest reserves.</p>
     </div>
 
     <div class='section-container'>
@@ -38,31 +38,12 @@
             <a href='#'><div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
             </div></a>
+
             <a href='#'><div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
             </div></a>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-        </div>
-        <div class='pad-below-3em'>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-        </div>
-        <div>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
-            <a href='#'><div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div></a>
+
+
             <a href='#'><div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
             </div></a>

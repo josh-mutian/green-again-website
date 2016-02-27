@@ -33,3 +33,21 @@
     font-size: 120%;
     font-family: 'Open Sans', sans-serif;
 }
+
+.circle-photo {
+    float: left;
+}
+
+.bio-photo {
+/*  padding: 1.5em;
+    margin: 0 1.5em 0 1em;*/
+    width: 15em;
+    height: 15em;
+    display: inline-block;
+}
+
+.bio-text {
+    width: 70%;
+    text-align: left;
+    display: inline-block;
+}

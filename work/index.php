@@ -29,7 +29,7 @@
     <div class='section-container first-sec'>
         <p class='accent-size' style='color: #5E8F3A'>Ecological Restoration</p>
         <p>The purpose of Green Again’s projects is the “ecological restoration” of damaged rainforest reserves in Madagascar.  True restoration is more than simply replanting trees.  As defined by the Society for Ecological Restoration (SER), it is the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed.</p>
-        <p>Ecological restoration involves a long term commitment to the land.  We aim to restore a self-sustaining environment with the original specifies of floral and fauna. To learn about what’s involved in this process, please visit <a class='hyper' href="http://www.ser.org/resources/resources-detail-view/ser-international-primer-on-ecological-restoration" target="_blank">the SER website</a>.</p>
+        <p>Ecological restoration involves a long term commitment to the land.  We aim to restore a self-sustaining environment with the original specifies of floral and fauna. To learn about what’s involved in this process, please visit <a style='font-weight: bold' href="http://www.ser.org/resources/resources-detail-view/ser-international-primer-on-ecological-restoration" target="_blank">the SER website</a>.</p>
         <p class='accent-size' style='color: #5E8F3A'>Current Project</p>
         <p>Our current project is to restore a section of the rainforest reserve in Parc Ivoloina that was lost due a human-caused forest fire.</p>
         <p>Parc Ivoloina is small but highly visited. It is 700 acres wide with 15,000 visitors annually, 70% of which are Malagasy. Unfortunately, the fire destroyed all tree cover across a large area, leaving only a scar of charred ground.</p>

@@ -34,44 +34,51 @@
 
     <div class='section-container'>
         <div class='section-title title-size'>Who We Are</div>
-        <div>
-            <div class='circle-photo'>
-                <img class='bio-photo' src='/img_src/MattHill.png'/>
-            </div>
-            <div class='bio-text'>
+        <table class='bio-section'>
+        <tr>
+            <td class='bio-photo-wrapper'><img class='bio-photo' src='/img_src/bio_matt.png'/></td>
+            <td class='bio-padding-wrapper'></td>
+            <td class='bio-body-wrapper'><div class='bio-text'>
+                <p><span class='bio-name'>Matt Hill</span></p><br>
                 <p>Matt Hill founded Green Again after relocating to Madagascar and falling in love with its beautiful primary rainforests.  He currently lives in Tamatave where he manages Green Again's reforestation project at Park Ivoloina.</p>
-            </div>
-        </div>
-        <div>
-            <div class='circle-photo'>
-                <img class='bio-photo' src='/img_src/JeanFrancois.png'/>
-            </div>
-            <div class='bio-text'>
+            </div></td>
+        </tr>
+        </table>
+        <table class='bio-section'>
+        <tr>
+            <td class='bio-body-wrapper'><div class='bio-text'>
+                <p><span class='bio-name'>Jean François Solofo Niaina Fidy</span></p><br>
                 <p>Jean François Solofo Niaina Fidy has been the head forester at Parc Ivoloina since 1998. He is the president of  the nearby village, Ambonivato, and helps to engage the local population in our project.</p>
-            </div>
-        </div>    
-        <div>
-            <div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div>
-            <div class='bio-text'>
+            </div></td>
+            <td class='bio-padding-wrapper'></td>
+            <td class='bio-photo-wrapper'>
+            <img class='bio-photo' src='/img_src/bio_jean.png'/>
+            </td>
+        </tr>
+        </table>  
+        <table class='bio-section'>
+        <tr>
+            <td class='bio-photo-wrapper'>
+            <img class='bio-photo' src='/img_src/bio_mamy.png'/>
+            </td>
+            <td class='bio-padding-wrapper'></td>
+            <td class='bio-body-wrapper'><div class='bio-text'>
+                <p><span class='bio-name'>Mamy</span></p><br>
                 <p>Mamy is the director of the forestry science at Parc Ivoloina. He also teaches classes on forest management at University of Tamatave.</p>
-            </div>
-        </div>
+            </div></td>
+        </tr>
+        </table>
     </div>
 
     <div class='section-container last-sec'>
         <div class='section-title title-size'>How You Can Get Involved</div>
         <div class='pad-below-3em'>
             <p class='section-title subtitle-size'>Spread the word</p>
-            <a href='#'><div class='circle-button triptych'>
+            <a href='https://www.facebook.com/GreenAgainMadagascar'><div class='circle-button triptych'>
                 <img src='/icon_src/fb_logo.png'/>
             </div></a>
             <a href='#'><div class='circle-button triptych'>
                 <img src='/icon_src/twitter_logo.png'/>
-            </div></a>
-            <a href='#'><div class='circle-button triptych'>
-                <img src='/icon_src/instg_logo.png'/>
             </div></a>
         </div>
         <div>

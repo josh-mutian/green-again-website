@@ -11,7 +11,6 @@ body {
 a:link, a:visited, a:hover, a:active {
     color: #000000;
     text-decoration: none;
-    font-weight: bold;
 }
 
 a:hover {
@@ -114,6 +113,14 @@ a:hover {
 
 .aligh-right {
     text-align: right;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
 }
 
 .pad-below-3em {

@@ -1,17 +1,3 @@
-.man-button {
-    border-radius: 50%;
-    height: 6em;
-    width: 6em;
-    padding: 2em;
-    margin: 0 1.5em 0 1em;
-    background: #5E8F3A;
-    display: inline-block;
-}
-
-.man-button > img {
-    height: 100%;
-}
-
 .circle-button {
     border-radius: 50%;
     height: 4em;
@@ -34,20 +20,32 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.circle-photo {
-    float: left;
+.bio-section {
+    width: 100%;
+    padding-bottom: 3em;
+}
+
+.bio-photo-wrapper {
+    width: 35%;
+}
+
+.bio-body-wrapper {
+    width: 60%;
+}
+
+.bio-padding-wrapper {
+    width: 5%;
 }
 
 .bio-photo {
-/*  padding: 1.5em;
-    margin: 0 1.5em 0 1em;*/
-    width: 15em;
-    height: 15em;
-    display: inline-block;
+    width: 100%;
 }
 
 .bio-text {
-    width: 70%;
     text-align: left;
-    display: inline-block;
+}
+
+.bio-name {
+    font-size: 1.5em;
+    color: #5E8F3A;
 }

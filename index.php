@@ -27,10 +27,7 @@
             <span class='title-size'>Restoring Forest Habitats</span>
         </p>
         <div id='top-join-us'>
-            <form>
-                <input name='email' placeholder='Email' class='input-email'>
-                <div class='button' id='button-join-us'>JOIN US</div>
-            </form>
+            <a href='http://eepurl.com/bR6YoL' target="_blank"><div class='button' id='button-join-us'>JOIN US</div></a>
         </div>
     </div>
 
@@ -71,7 +68,7 @@
                 <p class='stat-desc'>1 year old trees in the "wild nursery," ready for planting</p>
             </div>
         </div>
-        <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJQDUHJ9MWVRS&lc=US&item_name=Green%20Again%20Madagascar&item_number=Ivoloina%20Park%20Project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted'><div class='button vertical-center'>DONATE</div></a>
+        <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJQDUHJ9MWVRS&lc=US&item_name=Green%20Again%20Madagascar&item_number=Ivoloina%20Park%20Project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted'><div class='button vertical-center' target="_blank">DONATE</div></a>
     </div>
 
     <div class='green-back section-container' id='learn-more'>
@@ -94,19 +91,16 @@
         <div class='section-title title-size'>How You Can Get Involved</div>
         <div class='pad-below-3em'>
             <p class='section-title subtitle-size'>Spread the word</p>
-            <a href='https://www.facebook.com/GreenAgainMadagascar'><div class='circle-button triptych'>
+            <a href='https://www.facebook.com/GreenAgainMadagascar' target="_blank"><div class='circle-button triptych'>
                 <img src='/icon_src/fb_logo.png'/>
             </div></a>
-            <a href='#'><div class='circle-button triptych'>
+            <div class='circle-button triptych'>
                 <img src='/icon_src/twitter_logo.png'/>
-            </div></a>
+            </div>
         </div>
         <div>
             <p class='section-title subtitle-size'>Get in touch: we'd love to hear from you</p>
-            <form>
-                <input name='email' placeholder='Email' class='input-email'>
-                <div class='button' id='button-join-us'>JOIN US</div>
-            </form>
+            <a href='http://eepurl.com/bR6YoL' target="_blank"><div class='button' id='button-join-us'>JOIN US</div></a>
         </div>
     </div>
 

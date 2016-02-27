@@ -74,19 +74,16 @@
         <div class='section-title title-size'>How You Can Get Involved</div>
         <div class='pad-below-3em'>
             <p class='section-title subtitle-size'>Spread the word</p>
-            <a href='https://www.facebook.com/GreenAgainMadagascar'><div class='circle-button triptych'>
+            <a href='https://www.facebook.com/GreenAgainMadagascar' target="_blank"><div class='circle-button triptych'>
                 <img src='/icon_src/fb_logo.png'/>
             </div></a>
-            <a href='#'><div class='circle-button triptych'>
+            <div class='circle-button triptych'>
                 <img src='/icon_src/twitter_logo.png'/>
-            </div></a>
+            </div>
         </div>
         <div>
             <p class='section-title subtitle-size'>Get in touch: we'd love to hear from you</p>
-            <form>
-                <input name='email' placeholder='Email' class='input-email'>
-                <div class='button' id='button-join-us'>JOIN US</div>
-            </form>
+            <a href='http://eepurl.com/bR6YoL' target="_blank"><div class='button' id='button-join-us'>JOIN US</div></a>
         </div>
     </div>
 
@@ -99,9 +96,6 @@
     
     <script src='/about/about.js'></script>
     
-    <!-- Counter up API: https://github.com/bfintal/Counter-Up -->
-    <script src="/scripts/waypoints.min.js"></script>
-    <script src="/scripts/jquery.counterup.min.js"></script>
 </body>
 </html>
 

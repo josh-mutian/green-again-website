@@ -94,7 +94,6 @@
     
     <script src='work.js'></script>
     
-    <!-- Counter up API: https://github.com/bfintal/Counter-Up -->
 </body>
 </html>
 

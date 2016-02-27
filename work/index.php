@@ -95,8 +95,6 @@
     <script src='work.js'></script>
     
     <!-- Counter up API: https://github.com/bfintal/Counter-Up -->
-    <script src="/scripts/waypoints.min.js"></script>
-    <script src="/scripts/jquery.counterup.min.js"></script>
 </body>
 </html>
 

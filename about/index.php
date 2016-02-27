@@ -34,17 +34,28 @@
 
     <div class='section-container'>
         <div class='section-title title-size'>Who We Are</div>
-        <div class='pad-below-3em'>
+        <div>
+            <div class='circle-photo'>
+                <img class='bio-photo' src='/img_src/MattHill.png'/>
+            </div>
+            <div class='bio-text'>
+                <p>Matt Hill founded Green Again after relocating to Madagascar and falling in love with its beautiful primary rainforests.  He currently lives in Tamatave where he manages Green Again's reforestation project at Park Ivoloina.</p>
+            </div>
+        </div>
+        <div>
+            <div class='circle-photo'>
+                <img class='bio-photo' src='/img_src/JeanFrancois.png'/>
+            </div>
+            <div class='bio-text'>
+                <p>Jean François Solofo Niaina Fidy has been the head forester at Parc Ivoloina since 1998. He is the president of  the nearby village, Ambonivato, and helps to engage the local population in our project.</p>
+            </div>
+        </div>    
+        <div>
             <div class='man-button triptych'>
                 <img src='/icon_src/everyman.png'/>
             </div>
-
-            <div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
-            </div>
-
-            <div class='man-button triptych'>
-                <img src='/icon_src/everyman.png'/>
+            <div class='bio-text'>
+                <p>Mamy is the director of the forestry science at Parc Ivoloina. He also teaches classes on forest management at University of Tamatave.</p>
             </div>
         </div>
     </div>

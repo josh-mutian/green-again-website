@@ -22,27 +22,32 @@
         <p style='top: 60%'>
             <span class='headline-size'>Our Work</span>
             <br><br>
-            <span class='title-size'>Our past, current, and future projects.</span>
+            <!--<span class='title-size'>Our past, current, and future projects.</span>-->
         </p>
     </div>
 
     <div class='section-container first-sec'>
-        <p class='accent-size' style='color: #5E8F3A'>Ecological Restoration</p>
+        <div class='section-title title-size'>Ecological Restoration</div>
         <p>The purpose of Green Again’s projects is the “ecological restoration” of damaged rainforest reserves in Madagascar.  True restoration is more than simply replanting trees.  As defined by the Society for Ecological Restoration (SER), it is the process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed.</p>
         <p>Ecological restoration involves a long term commitment to the land.  We aim to restore a self-sustaining environment with the original specifies of floral and fauna. To learn about what’s involved in this process, please visit <a style='font-weight: bold' href="http://www.ser.org/resources/resources-detail-view/ser-international-primer-on-ecological-restoration" target="_blank">the SER website</a>.</p>
-        <p class='accent-size' style='color: #5E8F3A'>Current Project</p>
-        <p>Our current project is to restore a section of the rainforest reserve in Parc Ivoloina that was lost due a human-caused forest fire.</p>
-        <p>Parc Ivoloina is small but highly visited. It is 700 acres wide with 15,000 visitors annually, 70% of which are Malagasy. Unfortunately, the fire destroyed all tree cover across a large area, leaving only a scar of charred ground.</p>
+    </div>
+        
+    <div class='green-back section-container' id='current-project'>
+        <div class='section-title title-size'>Current Project</div>
+        <p>Our current project is to restore a section of the rainforest reserve in Parc Ivoloina that was lost due a human-caused forest fire. Parc Ivoloina is small but highly visited. It is 700 acres wide with 15,000 visitors annually, 70% of which are Malagasy. Unfortunately, the fire destroyed all tree cover across a large area, leaving only a scar of charred ground.</p>
         <p>Our objective is to restore the rainforest canopy to this area within ten years. To date, we’ve planted 38 pioneer species and the trees are growing fast. There’s already a slight canopy forming and several exotic species such as the eucalyptus, acacia, and guava are thriving.</p>
         <p>Another core part of our work is to collect scientific observations on the growth patterns of the tree species involved in the restoration. Our team collects and enters data rigorously in order to continually improve results. Using our data, we’ve tested 5 planting frameworks, 4 germination experiments, and several planting treatments.</p>
-        <p class='accent-size' style='color: #5E8F3A'>Focus on Sustainability</p>
+    </div>
+
+    <div class='section-container'>
+        <div class='section-title title-size'>Focus on Sustainability</div>
         <p>A central challenge of our work is to ensure that restored rainforest areas remain protected for the long term.  Green Again uses a three-ring approach for this:</p>
         <p>1. Restore a centrally located rainforest reserve which can be insulated and protected by surrounding plots</p>
         <p>2. Replant surrounding forest plots as a buffer to be sustainably logged by families in the organization as their primary source of income</p>
         <p>3. Establish another buffering zone exterior to that for gardening and rice fields</p>
     </div>
     
-    <div class='section-container last-sec'>
+    <div class='section-container last-sec' id='highlights'>
         <div class='section-title title-size'>Highlights</div>
         <div>
             <div class='gallery triptych'>

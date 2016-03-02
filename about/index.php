@@ -22,7 +22,7 @@
         <p style='top: 60%'>
             <span class='headline-size'>About Us</span>
             <br><br>
-            <span class='title-size'>Why we started, and who we are.</span>
+            <!-- <span class='title-size'>Why we started, and who we are.</span> -->
         </p>
     </div>
 
@@ -39,7 +39,7 @@
             <td class='bio-photo-wrapper'><img class='bio-photo' src='/img_src/bio_matt.png'/></td>
             <td class='bio-padding-wrapper'></td>
             <td class='bio-body-wrapper'><div class='bio-text'>
-                <p><span class='bio-name'>Matt Hill</span></p><br>
+                <p><span class='bio-name' style='color: #5E8F3A'>Matt Hill</span></p><br>
                 <p>Matt Hill founded Green Again after relocating to Madagascar and falling in love with its beautiful primary rainforests.  He currently lives in Tamatave where he manages Green Again's reforestation project at Park Ivoloina.</p>
             </div></td>
         </tr>
@@ -47,7 +47,7 @@
         <table class='bio-section'>
         <tr>
             <td class='bio-body-wrapper'><div class='bio-text'>
-                <p><span class='bio-name'>Jean François Solofo Niaina Fidy</span></p><br>
+                <p><span class='bio-name' style='color: #5E8F3A'>Jean François Solofo Niaina Fidy</span></p><br>
                 <p>Jean François Solofo Niaina Fidy has been the head forester at Parc Ivoloina since 1998. He is the president of  the nearby village, Ambonivato, and helps to engage the local population in our project.</p>
             </div></td>
             <td class='bio-padding-wrapper'></td>
@@ -63,7 +63,7 @@
             </td>
             <td class='bio-padding-wrapper'></td>
             <td class='bio-body-wrapper'><div class='bio-text'>
-                <p><span class='bio-name'>Mamy</span></p><br>
+                <p><span class='bio-name' style='color: #5E8F3A'>Mamy</span></p><br>
                 <p>Mamy is the director of the forestry science at Parc Ivoloina. He also teaches classes on forest management at University of Tamatave.</p>
             </div></td>
         </tr>

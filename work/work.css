@@ -43,3 +43,11 @@
 .gallery > img {
     width: 100%;
 }
+
+#current-project {
+    background-color: #DCECCC;
+}
+
+#highlights {
+    background-color: #DCECCC;
+}

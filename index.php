@@ -35,15 +35,15 @@
         <div class='section-title title-size'>Why Madagascar</div>
         <div class='stat-triptych triptych'>
             <p class='stat-number'><span class='counter'>3</span>%</p>
-            <p class='stat-desc'>of the entire world’s entire biodiversity is only found in Madagascar</p>
+            <p class='stat-desc'>of the world’s entire biodiversity is found only in Madagascar</p>
         </div>
         <div class='stat-triptych triptych'>
-            <p class='stat-number'><span class='counter'>50</span>%</p>
-            <p class='stat-desc'>of the rainforest was decimated in the 15 years between 1950 and 1985</p>
+            <p class='stat-number'><span class='counter'>87</span>%</p>
+            <p class='stat-desc'>of Madagascar's rainforest have been lost in the last 100 years</p>
         </div>
         <div class='stat-triptych triptych'>
-            <p class='stat-number'><span class='counter'>22</span>%</p>
-            <p class='stat-desc'>of the entire Madagascar rainforest left in 2010</p>
+            <p class='stat-number'><span class='counter'>11</span>%</p>
+            <p class='stat-desc'>of the original rainforests are all that currently remain</p>
         </div>
     </div>
 
@@ -56,16 +56,16 @@
         <div class='section-title title-size'>Our Impact</div>
         <div class='pad-below-3em'>
             <div class='stat-triptych triptych'>
+                <p class='stat-number'><span class='counter'>12,637</span></p>
+                <p class='stat-desc'>trees planted in restoration areas</p>
+            </div>
+            <div class='stat-triptych triptych'>
                 <p class='stat-number'><span class='counter'>3,103</span></p>
-                <p class='stat-desc'>1 year old seedlings</p>
+                <p class='stat-desc'>one-year-old seedlings growing</p>
             </div>
             <div class='stat-triptych triptych'>
-                <p class='stat-number'><span class='counter'>1,000</span></p>
-                <p class='stat-desc'>germinations ready for pot</p>
-            </div>
-            <div class='stat-triptych triptych'>
-                <p class='stat-number'><span class='counter'>4,000</span></p>
-                <p class='stat-desc'>1 year old trees in the "wild nursery," ready for planting</p>
+                <p class='stat-number'><span class='counter'>4,536</span></p>
+                <p class='stat-desc'>wild-nursery trees ready for planting</p>
             </div>
         </div>
         <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJQDUHJ9MWVRS&lc=US&item_name=Green%20Again%20Madagascar&item_number=Ivoloina%20Park%20Project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted'><div class='button vertical-center' target="_blank">DONATE</div></a>

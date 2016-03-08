@@ -43,3 +43,37 @@
 .gallery > img {
     width: 100%;
 }
+
+#current-project {
+    background-color: #DCECCC;
+}
+
+#highlights {
+    background-color: #DCECCC;
+}
+
+.work-section {
+    width: 100%;
+    padding-bottom: 1em;
+}
+
+.work-icon-wrapper {
+    width: 35%;
+}
+
+.work-icon {
+    width: 100%
+}
+
+.work-padding-wrapper {
+    width: 5%;
+}
+
+.work-text-wrapper {
+    width: 60;
+}
+
+.work-text {
+    text-align: left;
+}
+

@@ -58,7 +58,7 @@
 }
 
 .work-icon-wrapper {
-    width: 35%;
+    width: 20%;
 }
 
 .work-icon {
@@ -75,5 +75,9 @@
 
 .work-text {
     text-align: left;
+}
+
+.work-text > p {
+    padding-bottom: 1em;
 }
 

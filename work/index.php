@@ -30,7 +30,7 @@
         <div class='section-title title-size'>Ecological Restoration</div>
         <table class="work-section">
             <tr>
-                <td class='work-icon-wrapper'><img class="work-icon" src='/img_src/archive/fire.jpg'/></td>
+                <td class='work-icon-wrapper'><img class="work-icon" src='/icon_src/eco_restore_icon.png'/></td>
                 <td class="work-padding-wrapper"></td>
                 <td class="work-text-wrapper">
                     <div class="work-text">
@@ -55,7 +55,7 @@
                     </div>
                 </td>
                 <td class="work-padding-wrapper"></td>
-                <td class="work-icon-wrapper"><img class="work-icon" src="/img_src/bio_mamy.png"> </td>
+                <td class="work-icon-wrapper"><img class="work-icon" src="/icon_src/cur_proj_icon.png"> </td>
             </tr>
         </table>
     </div>
@@ -64,7 +64,7 @@
         <div class='section-title title-size'>Focus on Sustainability</div>
         <table class='work-section'>
             <tr>
-                <td class='work-icon-wrapper'><img class='work-icon' src='/img_src/bio_mamy.png'/></td>
+                <td class='work-icon-wrapper'><img class='work-icon' src='/icon_src/sustain_icon.png'/></td>
                 <td class='work-padding-wrapper'></td>
                 <td class='work-text-wrapper'>
                     <div class='work-text'>

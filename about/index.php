@@ -80,6 +80,9 @@
             <div class='circle-button triptych'>
                 <img src='/icon_src/twitter_logo.png'/>
             </div>
+            <div class='circle-button triptych'>
+                <img src='/icon_src/instg_logo.png'/>
+            </div>
         </div>
         <div>
             <p class='section-title subtitle-size'>Get in touch: we'd love to hear from you</p>

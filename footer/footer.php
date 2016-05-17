@@ -10,7 +10,8 @@
         <p class='footer_title'>LEARN MORE</p>
         <a class='white' href='/work'><p>Our Work</p></a>
         <a class='white' href='/about'><p>About</p></a>
-        <a class='white' href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJQDUHJ9MWVRS&lc=US&item_name=Green%20Again%20Madagascar&item_number=Ivoloina%20Park%20Project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted' target="_blank"><p>Donate</p></a>
+        <!-- <a class='white' href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJQDUHJ9MWVRS&lc=US&item_name=Green%20Again%20Madagascar&item_number=Ivoloina%20Park%20Project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted' target="_blank"><p>Donate</p></a> -->
+        <a class='white' href='/donate' ><p>Donate</p></a>
     </div>
     <div class='footer_section triptych' id='contact'>
         <p class='footer_title'>CONTACT US</p>

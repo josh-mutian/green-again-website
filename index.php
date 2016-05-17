@@ -68,7 +68,9 @@
                 <p class='stat-desc'>wild-nursery trees ready for planting</p>
             </div>
         </div>
-        <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJQDUHJ9MWVRS&lc=US&item_name=Green%20Again%20Madagascar&item_number=Ivoloina%20Park%20Project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted'><div class='button vertical-center' target="_blank">DONATE</div></a>
+        <!-- <a href='https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=SJQDUHJ9MWVRS&lc=US&item_name=Green%20Again%20Madagascar&item_number=Ivoloina%20Park%20Project&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted'><div class='button vertical-center' target="_blank">DONATE</div></a> -->
+        <a href='/donate'><div class='button vertical-center' target="_blank">DONATE</div></a>
+
     </div>
 
     <div class='green-back section-container' id='learn-more'>
